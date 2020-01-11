@@ -5,3 +5,4 @@ for i in l2:
     if i not in l1:
         print(i, l2.count(i))
         l1.append(i)
+
