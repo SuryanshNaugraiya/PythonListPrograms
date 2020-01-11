@@ -2,3 +2,4 @@
 N = int(input("enter no of prime no."))
 s = 0
 c = 0
+l = [2]
