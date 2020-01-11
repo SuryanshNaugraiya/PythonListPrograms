@@ -4,3 +4,4 @@ l = []
 for i in (0, s):
     e = int(input("emter element"))
     l.append(e)
+l.sort()
