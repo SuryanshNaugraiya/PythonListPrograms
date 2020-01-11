@@ -10,3 +10,6 @@ for i in range(3, 100 * N):
     if s == 0:
         l.append(i)
         c = c + 1
+    if c == N - 1:
+        break
+    s = 0
