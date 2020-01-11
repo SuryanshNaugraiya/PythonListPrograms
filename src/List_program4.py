@@ -13,3 +13,4 @@ for i in range(3, 100 * N):
     if c == N - 1:
         break
     s = 0
+print(l)
