@@ -7,3 +7,5 @@ for i in l:
         s1 = s1 + i
     else:
         s2 = s2 + i
+print(s1)
+print(s2)
