@@ -7,3 +7,4 @@ for i in range(0, s):
 sum = 0
 for i in l:
     sum = sum + i
+print(sum)
